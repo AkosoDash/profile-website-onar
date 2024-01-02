@@ -48,6 +48,7 @@ export default function Detail({ params }) {
       console.log(error);
     }
   };
+
   useEffect(() => {
     getArtikel();
     getAllArticles();

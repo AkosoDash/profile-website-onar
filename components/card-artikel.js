@@ -7,7 +7,6 @@ const CardArtikelComponent = ({ data, isLoaded }) => {
       {data.length === 0 && isLoaded === false
         ? "Data sedang dimuat"
         : data.map((data, key) => {
-            console.log(JSON.stringify(data));
             return (
               <div className="mb-8" key={key}>
                 <div

@@ -1,8 +1,6 @@
 import Image from "next/image";
 
 const CarouselComponent = ({ data, isLoaded }) => {
-  console.log({ data: data });
-
   return (
     <>
       <div className="card w-full h-1/2 bg-base-100 shadow-xl lg:w-1/2 lg:content-center">
