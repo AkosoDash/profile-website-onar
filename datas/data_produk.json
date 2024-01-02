@@ -1,0 +1,59 @@
+[
+    {
+      "name": "Tokopedia",
+      "image_url": "/assets/images/shoes/sandal-pria-1.jpeg"
+    },
+    {
+      "name": "Lazada",
+      "image_url": "/assets/images/shoes/sandal-pria-2.jpeg"
+    },
+    {
+      "name": "Shopee",
+      "image_url": "/assets/images/shoes/sandal-pria-3.jpeg"
+    },
+    {
+      "name": "Pesan Via Whatsapp",
+      "image_url": "/assets/images/shoes/sandal-wanita-1.jpeg"
+    },
+    {
+      "name": "Customer Service",
+      "image_url": "/assets/images/shoes/sandal-wanita-2.jpeg"
+    },
+    {
+        "name": "Customer Service",
+        "image_url": "/assets/images/shoes/sandal-wanita-3.jpeg "
+    },
+    {
+        "name": "Pesan Via Whatsapp",
+        "image_url": "/assets/images/shoes/sepatu-anak-1.jpeg"
+    },
+    {
+        "name": "Customer Service",
+        "image_url": "/assets/images/shoes/sepatu-anak-2.jpeg"
+    },
+    {
+        "name": "Customer Service",
+        "image_url": "/assets/images/shoes/sepatu-anak-3.jpeg "
+    },
+    {
+        "name": "Pesan Via Whatsapp",
+        "image_url": "/assets/images/shoes/sepatu-olahraga-1.jpeg"
+    },
+    {
+        "name": "Customer Service",
+        "image_url": "/assets/images/shoes/sepatu-olahraga-2.jpeg"
+    },
+    {
+        "name": "Customer Service",
+        "image_url": "/assets/images/shoes/sepatu-olahraga-3.jpeg "
+    },
+    {
+        "name": "Customer Service",
+        "image_url": "/assets/images/shoes/sepatu-sekolah-1.jpeg"
+    },
+    {
+        "name": "Customer Service",
+        "image_url": "/assets/images/shoes/sepatu-sekolah-2.jpeg "
+    }
+  ]
+  

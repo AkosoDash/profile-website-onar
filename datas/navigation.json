@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Logo",
+    "icon": "",
+    "asset_url": "/assets/logo/logo-black-2.png",
+    "direct_url": "/",
+    "nav_role": "logo"
+  },
+  {
+    "title": "Cerita Kami",
+    "icon": "",
+    "asset_url": "",
+    "direct_url": "/cerita-kami",
+    "nav_role": "nav-item"
+  },
+  {
+    "title": "Produk Unggulan",
+    "icon": "",
+    "asset_url": "",
+    "direct_url": "/produk-unggulan",
+    "nav_role": "nav-item"
+  },
+  {
+    "title": "Artikel",
+    "icon": "",
+    "asset_url": "",
+    "direct_url": "/artikel",
+    "nav_role": "nav-item"
+  },
+  {
+    "title": "Reseller",
+    "icon": "",
+    "asset_url": "",
+    "direct_url": "/reseller",
+    "nav_role": "nav-item"
+  },
+  {
+    "title": "Marketplace",
+    "icon": "",
+    "asset_url": "",
+    "direct_url": "/store",
+    "nav_role": "marketplace"
+  }
+]
